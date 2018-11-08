@@ -1,0 +1,41 @@
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.deps.json
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.runtimeconfig.json
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.runtimeconfig.dev.json
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Application.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Domain.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Application.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Domain.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.csprojAssemblyReference.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.csproj.CoreCompileInputs.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.RazorAssemblyInfo.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.RazorAssemblyInfo.cs
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.AssemblyInfoInputs.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.AssemblyInfo.cs
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.RazorTargetAssemblyInfo.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.csproj.CopyComplete
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.deps.json
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.runtimeconfig.json
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.runtimeconfig.dev.json
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.API.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Application.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Domain.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Application.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\bin\Debug\netcoreapp2.1\Teste.Domain.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.RazorAssemblyInfo.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.RazorAssemblyInfo.cs
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.AssemblyInfo.cs
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.RazorTargetAssemblyInfo.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.API\obj\Debug\netcoreapp2.1\Teste.API.pdb

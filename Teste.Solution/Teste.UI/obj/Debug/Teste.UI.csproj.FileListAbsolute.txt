@@ -1,0 +1,9 @@
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\bin\Teste.UI.dll.config
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\bin\Teste.UI.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\bin\Teste.UI.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\obj\Debug\Teste.UI.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\obj\Debug\Teste.UI.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\obj\Debug\Teste.UI.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.UI\obj\Debug\Teste.UI.pdb

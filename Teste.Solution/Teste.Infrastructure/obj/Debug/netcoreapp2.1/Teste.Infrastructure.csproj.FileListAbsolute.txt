@@ -1,0 +1,17 @@
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\bin\Debug\netcoreapp2.1\Teste.Infrastructure.deps.json
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\bin\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\bin\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.AssemblyInfoInputs.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.AssemblyInfo.cs
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\bin\Debug\netcoreapp2.1\Teste.Infrastructure.deps.json
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\bin\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\bin\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Infrastructure\obj\Debug\netcoreapp2.1\Teste.Infrastructure.csprojResolveAssemblyReference.cache

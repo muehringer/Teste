@@ -1,0 +1,23 @@
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Domain.deps.json
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Domain.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Domain.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.csprojAssemblyReference.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.csproj.CoreCompileInputs.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.AssemblyInfoInputs.cache
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.AssemblyInfo.cs
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.csproj.CopyComplete
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.dll
+D:\Temp\Nova pasta\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Domain.deps.json
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Domain.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Domain.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Infrastructure.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\bin\Debug\netcoreapp2.1\Teste.Infrastructure.pdb
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.AssemblyInfo.cs
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.dll
+C:\Users\alexa\Projetos\MinutoSeguro\Teste.Solution\Teste.Solution\Teste.Domain\obj\Debug\netcoreapp2.1\Teste.Domain.pdb
